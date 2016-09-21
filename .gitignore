@@ -1,0 +1,8 @@
+# Vagrant
+/.vagrant*/
+/UnrealEngine/
+
+# Vim
+*.swp*
+*.swo*
+
