@@ -1,0 +1,21 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Categories=Development;IDE;
+Comment[es]=
+Comment=
+Exec=UnrealEngine/Engine/Binaries/Linux/UE4Editor
+GenericName[es]=
+GenericName=
+Icon=ue4.png
+MimeType=
+Name[es]=Unreal Engine Editor
+Name=Unreal Engine Editor
+Path=UnrealEngine/Engine/Binaries/Linux
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
